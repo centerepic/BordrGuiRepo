@@ -16,6 +16,7 @@ This script is currently under development.
 10%
 
 # Features
+– [ ] Remove all log print lines
 –[ ] Bow Silent Aim
 –[ ] Auto Potion Craft
 –[ ] Teleports
