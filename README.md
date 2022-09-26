@@ -19,6 +19,7 @@ This script is currently under development.
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched
 | **Feature** | **Status** |
 |-|-|
+| Full Multi Instanced Autofarm | 🟩 |
 | Bow Silent Aim | 🟨 |
 | Auto Potion Craft | 🟨 |
 | Teleports | 🟨 |
@@ -26,16 +27,6 @@ This script is currently under development.
 | Anti-aim| 🟨 |
 | Movement (Sword auto-dodge, Speed, Flight, etc.) | 🟨 |
 | Sword Features (HBE) | 🟨 |
-| Full Multi Instanced Autofarm | 🟩 |
-
-**GHES release version dates**:
-| **Version Number** | **Release Quarter** | **Release Notes** |
-|-|-|-|
-| 3.5 | Q2 2022 | [Release Notes](https://docs.github.com/en/enterprise-server@3.5/admin/release-notes) |
-| 3.6 | Q3 2022 | - |
-| 3.7 | Q4 2022 | - |
-| 3.8 | Q1 2023 | - |
-
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
