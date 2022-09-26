@@ -17,6 +17,7 @@ This script is currently under development.
 
 # Features
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched
+**Features**:
 | **Feature** | **Status** |
 |Bow Silent Aim|🟨|
 |Auto Potion Craft|🟨|
