@@ -17,16 +17,16 @@ This script is currently under development.
 
 # Features
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched
-**Features**:
 | **Feature** | **Status** |
-|Bow Silent Aim|🟨|
-|Auto Potion Craft|🟨|
-|Teleports|🟨|
-|Anti-timeout|🟨|
-|Anti-aim|🟨|
-|Movement (Sword auto-dodge, Speed, Flight, etc.)|🟨|
-|Sword Features (HBE)|🟨|
-|Full Multi Instanced Autofarm|🟩|
+|-|-|
+| Bow Silent Aim | 🟨 |
+| Auto Potion Craft | 🟨 |
+| Teleports | 🟨 |
+| Anti-timeout | 🟨 |
+| Anti-aim| 🟨 |
+| Movement (Sword auto-dodge, Speed, Flight, etc.) | 🟨 |
+| Sword Features (HBE) | 🟨 |
+| Full Multi Instanced Autofarm | 🟩 |
 
 **GHES release version dates**:
 | **Version Number** | **Release Quarter** | **Release Notes** |
