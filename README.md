@@ -15,15 +15,15 @@ user interface library - https://github.com/shlexware
 This script is currently under development.
 10%
 
-# Features (✅ = Done , 🟨 = In Progress, 🟥 = Canceled or impossible)
-🟨 Bow Silent Aim \n
-🟨 Auto Potion Craft \n
-🟨 Teleports \n
-🟨 Anti-timeout \n
-🟨 Anti-aim \n
-🟨 Movement (Sword auto-dodge, Speed, Flight, etc.) \n
-🟨 Sword Features (HBE) \n
-✅ Full Multi Instanced Autofarm \n
+# Features
+– [ ] Bow Silent Aim
+– [ ] Auto Potion Craft
+– [ ] Teleports
+– [ ] Anti-timeout
+– [ ] Anti-aim
+– [ ] Movement (Sword auto-dodge, Speed, Flight, etc.)
+– [ ] Sword Features (HBE)
+– [x] Full Multi Instanced Autofarm
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
