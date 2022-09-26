@@ -16,14 +16,14 @@ This script is currently under development.
 10%
 
 # Features
-– [ ] Bow Silent Aim
-– [ ] Auto Potion Craft
-– [ ] Teleports
-– [ ] Anti-timeout
-– [ ] Anti-aim
-– [ ] Movement (Sword auto-dodge, Speed, Flight, etc.)
-– [ ] Sword Features (HBE)
-– [x] Full Multi Instanced Autofarm
+–[ ] Bow Silent Aim
+–[ ] Auto Potion Craft
+–[ ] Teleports
+–[ ] Anti-timeout
+–[ ] Anti-aim
+–[ ] Movement (Sword auto-dodge, Speed, Flight, etc.)
+–[ ] Sword Features (HBE)
+–[x] Full Multi Instanced Autofarm
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
