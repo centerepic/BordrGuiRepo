@@ -16,7 +16,7 @@ This script is currently under development.
 10%
 
 # Features
-- [ ]Bow Silent Aim
+-[ ] Bow Silent Aim
 Auto Potion Craft
 Teleports
 Anti-timeout
