@@ -202,6 +202,13 @@ task.defer(function()
     
     RunService.RenderStepped:Connect(function()
         pcall(function()
+            if OrionLib.Flags["Noclip"].Value == true then
+                for i,v in pairs(Character:GetChildren()) do
+                    if v:IsA("BasePart") and v.CanCollide == true then
+                        v.CanCollide = false
+                    end
+                end
+            end
             if Character.Humanoid.MoveDirection.Magnitude > 0 and Character.Humanoid.Health > 0 then
                 Character:TranslateBy(Character.Humanoid.MoveDirection * TargetWalkspeed/100)
             end
@@ -424,6 +431,13 @@ CharTab:AddToggle({
             end
         end
     end
+})
+
+CharTab:AddToggle({
+	Name = "Noclip",
+	Default = false,
+	Save = true,
+   	Flag = "Noclip"
 })
 
 CharTab:AddToggle({
