@@ -9,24 +9,25 @@ gui powered by orion lib -> https://github.com/shlexware/Orion
 scripting - sashaa#5351
 testing - sashaa#5351 (WHAAAT??? ME???)
 aiming module - https://github.com/Stefanuk12/ROBLOX/tree/master/Universal/Aiming | https://github.com/Stefanuk12
+silent aim hook (mouse.hit) - https://github.com/Averiias/Universal-SilentAim
 user interface library - https://github.com/shlexware
 
 # Info
 This script is currently under development.
-10%
+90%
 
 # Features
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched
 | **Feature** | **Status** |
 |-|-|
 | Full Multi Instanced Autofarm | 🟩 |
-| Bow Silent Aim | 🟨 |
-| Auto Potion Craft | 🟨 |
-| Teleports | 🟨 |
-| Anti-timeout | 🟨 |
-| Anti-aim| 🟨 |
+| Bow Silent Aim | 🟩 |
+| Auto Potion Craft | 🟩 |
+| Teleports | 🟩 |
+| Anti-timeout | 🟩 |
+| Anti-aim | 🟨 |
 | Movement (Sword auto-dodge, Speed, Flight, etc.) | 🟨 |
-| Sword Features (HBE) | 🟨 |
+| Sword Features (HBE) | 🟩 |
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
