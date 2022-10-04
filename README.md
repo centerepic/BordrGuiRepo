@@ -17,7 +17,7 @@ This script is currently under development.
 90%
 
 # Features
-🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched
+🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched | 🟪 = Testing / Unreleased
 | **Feature** | **Status** |
 |-|-|
 | Full Multi Instanced Autofarm | 🟩 |
@@ -28,6 +28,9 @@ This script is currently under development.
 | Anti-aim | 🟨 |
 | Movement (Sword auto-dodge, Speed, Flight, etc.) | 🟨 |
 | Sword Features (HBE) | 🟩 |
+| Server Crasher | 🟪 |
+| Kill all | 🟪 |
+| Item Dupe | 🟪 |
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
