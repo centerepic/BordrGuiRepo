@@ -1,3 +1,5 @@
+game.Players.LocalPlayer:Kick("Autofarm patched and detected! Please wait for an update.")
+
 local MainAccount = "yournamehere"
 
 local ScreenGui = Instance.new("ScreenGui")
