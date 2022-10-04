@@ -14,7 +14,7 @@ user interface library - https://github.com/shlexware
 
 # Info
 This script is currently under development.
-90%
+Current version is 1.2. Testing version 1.3.
 
 # Features
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched | 🟪 = Testing / Unreleased
