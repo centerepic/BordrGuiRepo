@@ -20,7 +20,7 @@ Current version is 1.2. Testing version 1.3.
 🟩 = Done | 🟨 = In progress | 🟥 = Cancelled / Patched | 🟪 = Testing / Unreleased
 | **Feature** | **Status** |
 |-|-|
-| Full Multi Instanced Autofarm | 🟩 |
+| Autofarm v2 Beta (No multi-instance support yet) | 🟩 |
 | Bow Silent Aim | 🟩 |
 | Auto Potion Craft | 🟩 |
 | Teleports | 🟩 |
