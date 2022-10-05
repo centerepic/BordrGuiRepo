@@ -30,7 +30,7 @@ Current version is 1.2. Testing version 1.3.
 | Sword Features (HBE) | 🟩 |
 | Server Crasher | 🟨 |
 | Kill all | 🟪 |
-| Item Dupe | 🟪 |
+| Item Dupe | 🟨 |
 
 # Extra
 Feel free to DM me on discord if you get any bugs or have any reccomendations!
