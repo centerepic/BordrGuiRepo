@@ -28,7 +28,7 @@ Current version is 1.2. Testing version 1.3.
 | Anti-aim | 🟨 |
 | Movement (Sword auto-dodge, Speed, Flight, etc.) | 🟨 |
 | Sword Features (HBE) | 🟩 |
-| Server Crasher | 🟪 |
+| Server Crasher | 🟨 |
 | Kill all | 🟪 |
 | Item Dupe | 🟪 |
 
