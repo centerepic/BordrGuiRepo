@@ -1,4 +1,5 @@
 # prtty much evry bordr gam evr GUI
+## Discontinued as of October 15 2022
 
 i am no longer a contributor lol
 making this because all of the scripts for this that i've found are lacking features or are outdated.
