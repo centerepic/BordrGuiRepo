@@ -34,5 +34,5 @@ Current version is 1.2. Testing version 1.3.
 | Item Dupe | 🟨 |
 
 # Extra
---Feel free to DM me on discord if you get any bugs or have any reccomendations!--
+~~Feel free to DM me on discord if you get any bugs or have any reccomendations!~~ not giving support for this script since it's discontinued, but if its completly broken i might fix it.
 Mr_Wiggles, yo mama so fat, she burger. (fr no hate tho)
